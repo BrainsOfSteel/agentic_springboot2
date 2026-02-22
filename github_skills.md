@@ -1,4 +1,4 @@
-# skills.md
+# github_skills.md
 
 ## Skill: Commit and Push Local Branch to GitHub
 
